@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4815ef5dac0966448167685b51e64b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228457
+  packageName: LiDAR Scanner
+  packageVersion: 1.0
+  assetPath: Assets/LiDAR/olli129/LiDAR Scanner/Materials/EnemyParticle.mat
+  uploadId: 515342

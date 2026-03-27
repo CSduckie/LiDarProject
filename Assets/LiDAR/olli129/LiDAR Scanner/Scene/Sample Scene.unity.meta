@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf14412988f573248a13e5d4554def45
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228457
+  packageName: LiDAR Scanner
+  packageVersion: 1.0
+  assetPath: Assets/LiDAR/olli129/LiDAR Scanner/Scene/Sample Scene.unity
+  uploadId: 515342

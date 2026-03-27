@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 8389a44a201599b469d9e3082e377842
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228457
+  packageName: LiDAR Scanner
+  packageVersion: 1.0
+  assetPath: Assets/LiDAR/olli129/LiDAR Scanner/Audio/Scanner2.wav
+  uploadId: 515342

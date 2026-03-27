@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3dcab0c1739a7084f8af911b0b981a87
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228457
+  packageName: LiDAR Scanner
+  packageVersion: 1.0
+  assetPath: Assets/LiDAR/olli129/LiDAR Scanner/Prefabs/Laser.prefab
+  uploadId: 515342

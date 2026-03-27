@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c196cd665adb4b04186d48be18d3f532
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228457
+  packageName: LiDAR Scanner
+  packageVersion: 1.0
+  assetPath: Assets/LiDAR/olli129/LiDAR Scanner/Prefabs/Particle System Walls.prefab
+  uploadId: 515342

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a8a7170425143d4faaf25fcbf3cac25
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228457
+  packageName: LiDAR Scanner
+  packageVersion: 1.0
+  assetPath: Assets/LiDAR/olli129/LiDAR Scanner/Prefabs/Particle System Exit.prefab
+  uploadId: 515342

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d920a48bbedd1246a2fd6e7f0191362
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228457
+  packageName: LiDAR Scanner
+  packageVersion: 1.0
+  assetPath: Assets/LiDAR/olli129/LiDAR Scanner/Prefabs/CameraRig.prefab
+  uploadId: 515342

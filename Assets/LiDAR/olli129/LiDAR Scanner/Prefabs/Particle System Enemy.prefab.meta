@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 872979611ed5a8b48b904e0ad6785924
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228457
+  packageName: LiDAR Scanner
+  packageVersion: 1.0
+  assetPath: Assets/LiDAR/olli129/LiDAR Scanner/Prefabs/Particle System Enemy.prefab
+  uploadId: 515342

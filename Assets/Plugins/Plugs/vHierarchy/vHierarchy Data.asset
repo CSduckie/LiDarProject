@@ -1,0 +1,1016 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a9752b0c8e144801967e6897679604b, type: 3}
+  m_Name: vHierarchy Data
+  m_EditorClassIdentifier: 
+  sceneDatas_byGuid:
+    keys:
+    - 99c9720ab356a0642a771bea13969a05
+    - 854da69f078c5334ea8b2ffc62af1a6c
+    - da4a1c763553eac40ac166c1f5be1e1b
+    - 505f3267e3e34184eb51df3f870801d7
+    - e1117d0100b657f47817b24299df6fa1
+    - 9d4bc2ff07d84c1499b0652072792433
+    - 5da3229223fbc444bb615cd7f5d0658e
+    - eb0cc5fa6212b8543a7393fb3b9e0c4e
+    - 88f0fdd2b85643446bb651914aff4865
+    - 43b2b65c1c6aa3d4f9c5f55e797c7399
+    - 4451500af50584d43859ee2812717e6b
+    - 44664a99c4f0f544aa433422a387bf35
+    - 516ba73d85bb7a647bd7137bf096d646
+    values:
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-147957665261903956-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-1686294500463513040-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-1474184930-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-552355471-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-1502627934-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-1331069590-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-1840897257-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-330585543-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-39134467-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-230193389-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-231156978-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-1453859771-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-648442338-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-809746737-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-74075128-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-860723422-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-580879714-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-180763096-0
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: DirectionalLight Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-854da69f078c5334ea8b2ffc62af1a6c-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-854da69f078c5334ea8b2ffc62af1a6c-885754559-0
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-da4a1c763553eac40ac166c1f5be1e1b-568243743-0
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-505f3267e3e34184eb51df3f870801d7-1430126674-0
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-e1117d0100b657f47817b24299df6fa1-1430126674-0
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-1430126674-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-902295171-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-981827403-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-697298546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-1970309109-0
+        - globalObjectIdString: GlobalObjectId_V1-2-9d4bc2ff07d84c1499b0652072792433-2899905577285704313-7896645129446271733
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: MeshCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-1430126674-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-902295171-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-981827403-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-697298546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-1970309109-0
+        - globalObjectIdString: GlobalObjectId_V1-2-5da3229223fbc444bb615cd7f5d0658e-2899905577285704313-7896645129446271733
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: MeshCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-1430126674-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-902295171-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-981827403-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-697298546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-1970309109-0
+        - globalObjectIdString: GlobalObjectId_V1-2-eb0cc5fa6212b8543a7393fb3b9e0c4e-2899905577285704313-7896645129446271733
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: MeshCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-1430126674-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-902295171-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-981827403-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-697298546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-1970309109-0
+        - globalObjectIdString: GlobalObjectId_V1-2-88f0fdd2b85643446bb651914aff4865-2899905577285704313-7896645129446271733
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: MeshCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-1430126674-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-902295171-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-981827403-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-697298546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-1970309109-0
+        - globalObjectIdString: GlobalObjectId_V1-2-43b2b65c1c6aa3d4f9c5f55e797c7399-2899905577285704313-7896645129446271733
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: MeshCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-1430126674-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-902295171-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-981827403-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-697298546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-1970309109-0
+        - globalObjectIdString: GlobalObjectId_V1-2-4451500af50584d43859ee2812717e6b-2899905577285704313-7896645129446271733
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: MeshCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-1430126674-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-902295171-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-981827403-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-697298546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-1970309109-0
+        - globalObjectIdString: GlobalObjectId_V1-2-44664a99c4f0f544aa433422a387bf35-2899905577285704313-7896645129446271733
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: MeshCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-1053487973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-2087031162-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-1453873871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-1667624849-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-63762547-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-670344410-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-1878165032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-2142722594-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-568243743-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-975790897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-366600108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-1430126674-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-902295171-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-981827403-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-697298546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-1970309109-0
+        - globalObjectIdString: GlobalObjectId_V1-2-516ba73d85bb7a647bd7137bf096d646-2899905577285704313-7896645129446271733
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: Transform Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: MeshCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+  bookmarks: []
+  bookmarkedScenePaths: []
